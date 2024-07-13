@@ -1,0 +1,41 @@
+nama : Ali Gufron
+API Autentikasi Pengguna
+
+
+A. Penggunaan
+Bahasa yang digunakan : Java
+Framework yang digunakan : Springboot
+Database yang digunakan : MYSQL
+Tools : Intellij IDEA & Postman (untuk testing)
+
+
+**B. Instruksi untuk Menjalankan Proyek API Autentikasi Pengguna Secara Lokal** ### Prasyarat
+Java Development Kit (JDK): Pastikan JDK 11 atau yang lebih baru sudah terinstal. Anda dapat mengunduhnya dari Oracle atau OpenJDK.
+
+Apache Maven: Pastikan Maven sudah terinstal. Anda dapat mengunduhnya dari situs resmi Maven.
+
+MySQL Server: Pastikan MySQL sudah terinstal dan berjalan. Anda dapat mengunduhnya dari situs resmi MySQL.
+
+IDE (Integrated Development Environment): Kami merekomendasikan menggunakan IntelliJ IDEA. Anda dapat mengunduhnya dari situs resmi JetBrains.
+
+Langkah-langkah Pengaturan
+Clone Repositori:
+
+Clone repositori proyek dari sistem kontrol versi (misalnya, GitHub, GitLab).
+git clone  https://github.com/aligfron/RegisterdanLogin-REST-API-sederhana-.git
+Impor Proyek ke IntelliJ IDEA:
+
+Buka IntelliJ IDEA.
+Pilih File -> Open dan navigasikan ke direktori proyek yang sudah di-clone.
+IntelliJ harus secara otomatis mendeteksi proyek sebagai proyek Maven dan mengimpor dependensinya.
+Konfigurasi Database MySQL:
+
+Buat database baru di MySQL. jalankan file database.sql untuk konfigurasi database
+Jalankan Aplikasi:
+
+Di IntelliJ, temukan kelas utama aplikasi (RegisterdanLoginApplication.java) dan jalankan.
+Alternatifnya, Anda bisa menjalankan aplikasi menggunakan Maven dari terminal.
+mvn spring-boot:run
+```<br/>
+C.tantangan selama mengerjakan projek
+Alhamdulillah proses pengerjaan berjalan lancar
