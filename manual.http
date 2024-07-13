@@ -1,0 +1,26 @@
+
+POST http://localhost:8080/api/users
+Accept: application/json
+Content-Type: application/json
+
+{
+  "username" : "ali123",
+  "password" : "rahasia",
+  "surel" : "pagi"
+}
+
+###login
+
+POST http://localhost:8080/api/auth/login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "username": "ali123",
+  "password": "rahasia"
+}
+
+###Get Data
+GET http://localhost:8080/api/users/current
+Accept: application/json
+X-API-TOKEN: 78dbe565-6c94-47f2-bb7d-e47fabbd1910
