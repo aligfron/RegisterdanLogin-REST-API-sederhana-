@@ -1,18 +1,18 @@
 nama : Ali Gufron
-<br>
+<br/>
 **API Autentikasi Pengguna**
 
-<br>
+<br/> 
 **A. Penggunaan**
-<br>
+<br/>
    Bahasa yang digunakan : **Java**
-   <br>
+   <br/>
    Framework yang digunakan : **Springboot**
-   <br>
-   Database yang digunakan : **MYSQL**<br>
+   <br/>
+   Database yang digunakan : **MYSQL**<br/>
    Tools : **Intellij IDEA & Postman (untuk testing)**
    
-<br>
+<br/>
 **B. Instruksi untuk Menjalankan Proyek API Autentikasi Pengguna Secara Lokal**
 ### Prasyarat
 
@@ -47,6 +47,6 @@ jalankan file database.sql untuk konfigurasi database
    - Alternatifnya, Anda bisa menjalankan aplikasi menggunakan Maven dari terminal.
    ```bash
    mvn spring-boot:run
-   ```<br>
-**C.tantangan selama mengerjakan projek**<br>
+   ```<br/>
+**C.tantangan selama mengerjakan projek**<br/>
 Alhamdulillah proses pengerjaan berjalan lancar
