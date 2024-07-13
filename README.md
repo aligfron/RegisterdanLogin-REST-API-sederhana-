@@ -48,6 +48,8 @@ jalankan file database.sql untuk konfigurasi database
    - Alternatifnya, Anda bisa menjalankan aplikasi menggunakan Maven dari terminal.
    ```bash
    mvn spring-boot:run
-   ```<br/>
+   ```
+
+   <br/>
 **C.tantangan selama mengerjakan projek**<br/>
 Alhamdulillah proses pengerjaan berjalan lancar
