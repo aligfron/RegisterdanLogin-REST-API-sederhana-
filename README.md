@@ -4,9 +4,12 @@ nama : Ali Gufron
 
 
 **A. Penggunaan**
+<br>
    Bahasa yang digunakan : **Java**
+   <br>
    Framework yang digunakan : **Springboot**
-   Database yang digunakan : **MYSQL**
+   <br>
+   Database yang digunakan : **MYSQL**<br>
    Tools : **Intellij IDEA & Postman (untuk testing)**
    
 
