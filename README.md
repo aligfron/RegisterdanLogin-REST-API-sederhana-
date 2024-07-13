@@ -1,8 +1,8 @@
 nama : Ali Gufron
-
+<br>
 **API Autentikasi Pengguna**
 
-
+<br>
 **A. Penggunaan**
 <br>
    Bahasa yang digunakan : **Java**
@@ -12,7 +12,7 @@ nama : Ali Gufron
    Database yang digunakan : **MYSQL**<br>
    Tools : **Intellij IDEA & Postman (untuk testing)**
    
-
+<br>
 **B. Instruksi untuk Menjalankan Proyek API Autentikasi Pengguna Secara Lokal**
 ### Prasyarat
 
@@ -39,14 +39,14 @@ nama : Ali Gufron
 
 3. **Konfigurasi Database MySQL**:
    - Buat database baru di MySQL.
-   ```jalankan file database.sql untuk konfigurasi database
-   ```
+jalankan file database.sql untuk konfigurasi database
+
 
 4. **Jalankan Aplikasi**:
    - Di IntelliJ, temukan kelas utama aplikasi (`RegisterdanLoginApplication.java`) dan jalankan.
    - Alternatifnya, Anda bisa menjalankan aplikasi menggunakan Maven dari terminal.
    ```bash
    mvn spring-boot:run
-   ```
-**C.tantangan selama mengerjakan projek**
+   ```<br>
+**C.tantangan selama mengerjakan projek**<br>
 Alhamdulillah proses pengerjaan berjalan lancar
